@@ -1,0 +1,8 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\C#\GCD\GCD\bin\Debug\GCD.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\C#\GCD\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\C#\GCD\GCD\bin\Debug\GCD.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\C#\GCD\GCD\bin\Debug\GCD.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\C#\GCD\GCD\obj\Debug\GCD.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\C#\GCD\GCD\obj\Debug\GCD.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\C#\GCD\GCD\obj\Debug\GCD.GCDinterface.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\C#\GCD\GCD\obj\Debug\GCD.csproj.GenerateResource.Cache
